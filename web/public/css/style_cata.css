@@ -1,0 +1,29 @@
+body{
+    background-color: darkslategray;
+    margin: 40px;
+    padding: 20px;
+}
+
+.container{
+    width: 80%;
+}
+
+@media only screen and (min-width: 769px){
+.bloco{
+    float: left;
+    width: 25%;
+    height: 560px;
+    margin-left: 0%;
+    margin-right: 3%;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 5px dodgerblue;
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+}
+.button{
+    color: orange;
+
+}
+
+}
